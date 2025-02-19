@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 技术栈：
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,py,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,mysql,redis,py,java,go,matlab,opencv)](https://skillicons.dev)
 <!--
 **Bigzzh2022/bigzzh2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
