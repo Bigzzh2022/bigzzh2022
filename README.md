@@ -37,25 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bigzzh2022&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
-## 🏆 项目展示
-
-### 爬虫项目
-
-[![爬虫项目](https://github-readme-stats.vercel.app/api/pin/?username=Bigzzh2022&repo=python-crawler&theme=dark)](https://github.com/Bigzzh2022/python-crawler)
-
-我开发了多个爬虫项目，包括：
-- 豆瓣电影数据爬取与分析
-- 使用 fake-useragent 进行请求伪装
-- 数据清洗与存储
-
-### 学生成绩管理系统
-
-[![学生成绩管理系统](https://github-readme-stats.vercel.app/api/pin/?username=Bigzzh2022&repo=student-management&theme=dark)](https://github.com/Bigzzh2022/student-management)
-
-一个基于 Python 的学生成绩管理系统，功能包括：
-- 学生信息的添加、删除和修改
-- 成绩统计与分析
-- 数据可视化展示
 
 ## 📝 最近活动
 
