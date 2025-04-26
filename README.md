@@ -53,17 +53,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Bigzzh2022&theme=onedark&row=1&column=6" />
 </div>
 
-## 🚀 代码动态
 
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Bigzzh2022&theme=xcode" alt="Activity Graph" />
-</div>
-
-## 💻 最常用仓库
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bigzzh2022&repo=your_repo_name&theme=radical" />
-</div>
 
 ---
 
