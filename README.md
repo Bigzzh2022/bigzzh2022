@@ -1,24 +1,28 @@
 # 👋 你好，我是 Bigzzh2022
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的GitHub主页;Python爱好者和开发者&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的GitHub主页;多元技术爱好者和开发者&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 ## 👨‍💻 关于我
 
-- 🔭 我目前正在研究 Python 爬虫和数据分析
-- 🌱 我正在学习更多关于数据科学和机器学习的知识
-- 💬 欢迎向我咨询 Python 相关问题
+- 🔭 我目前正在研究 Python 爬虫、数据分析和 Web 开发。
+- 🌱 我正在学习更多关于人工智能、分布式系统的知识。
+- 💬 欢迎向我咨询 Python、Web 开发、MATLAB 相关问题。
 - 📫 如何联系我: 通过 GitHub 私信
 
 ## 🛠️ 技术栈
 
 <div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analysis-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </div>
 
 ## 📊 GitHub 统计
@@ -37,7 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bigzzh2022&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
-
 ## 📝 最近活动
 
 <div align="center">
@@ -48,6 +51,18 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Bigzzh2022&theme=onedark&row=1&column=6" />
+</div>
+
+## 🚀 代码动态
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Bigzzh2022&theme=xcode" alt="Activity Graph" />
+</div>
+
+## 💻 最常用仓库
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bigzzh2022&repo=your_repo_name&theme=radical" />
 </div>
 
 ---
